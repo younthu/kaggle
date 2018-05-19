@@ -1,0 +1,19 @@
+{
+  "name": "zhihu",
+  "version": "1.0.0",
+  "description": "a scraper with headless function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "headless",
+    "nodejs"
+  ],
+  "author": "Andrew Yang",
+  "license": "MIT",
+  "dependencies": {
+    "scrape-it": "^3.3.2"
+  }
+}
